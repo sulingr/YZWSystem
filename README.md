@@ -10,7 +10,9 @@ update-database<br/>
 可以修改代码了。<br/>
 ## 内容要求
 Models层：已完成√<br/>
+重写了一部分代码，数据库有所更改，删掉了Student表 <br/>
 DAL层：已完成√<br/>
+采用了泛型处理，基本没有要动的了，DTO层不写了，DTO逻辑放BLL层写<br/>
 BLL层：赶工中...<br/>
 Controller：还未开始..<br/>
 Views：还未开始..<br/>
