@@ -14,6 +14,7 @@ Models层：已完成√<br/>
 DAL层：已完成√<br/>
 采用了泛型处理，基本没有要动的了，DTO层不写了，DTO逻辑放BLL层写<br/>
 BLL层：赶工中...<br/>
+BLL层不用依赖注入了，用接口来控制，放同一目录。
 Controller：还未开始..<br/>
 Views：还未开始..<br/>
 
